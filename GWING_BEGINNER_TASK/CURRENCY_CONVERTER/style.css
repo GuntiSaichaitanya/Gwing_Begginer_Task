@@ -1,0 +1,89 @@
+
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Amiri', serif; 
+    background-color: #b6b9ba; 
+    background-image: url(https://t3.ftcdn.net/jpg/02/26/12/48/360_F_226124875_Ng33wcNZAUucSfB1q51hS38rvZcOy8UC.jpg);
+    background-repeat: no-repeat;
+    background-size: 45cm;
+    color: #101304; 
+}
+
+
+.heading {
+    margin: 20px 0;
+    font-family: 'Lobster', cursive;
+    color: #dedee4; 
+}
+
+.container {
+    margin-top: 10px;
+    padding: 20px;
+    background-color: #11d0d3; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(9, 6, 6, 0.1); 
+}
+
+.main {
+    padding: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px; 
+}
+
+
+.form-control {
+    border-radius: 5px; 
+    border: 1px solid #0c010e; 
+    padding: 10px; 
+    font-size: 16px; 
+    height: auto; 
+    box-sizing: border-box; 
+}
+
+
+.input-group {
+    margin-bottom: 15px; 
+}
+
+.form-control {
+    width: 100%; 
+    box-sizing: border-box; 
+}
+
+.form-control option {
+    white-space: nowrap; 
+}
+
+.btn {
+    border-radius: 5px; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+
+.btn-primary {
+    background-color: #007bff; 
+    border-color: #007bff; 
+    color: #121010; 
+}
+
+.btn-primary.reset {
+    background-color: #13669d; 
+    border-color: #a0abb4; 
+}
+on color for reset *
+.text-center {
+    text-align: center;
+}
+#finalAmount {
+    margin-top: 20px;
+}
+
+.finalValue {
+    color: green; 
+    font-weight: bold; 
+}
